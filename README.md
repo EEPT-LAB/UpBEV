@@ -3,7 +3,7 @@
 
 ## 1. Features of UpBEV-DRDet
 * A **complete framework of drivable region detection based on UpBEV**. Dense drivable regions can be directly generated from the UpBEV representation.
-* **Accurate and Super Fast**. UpBEV-DRDet can run at more than 100Hz on a core of CPU clocked at 4.0GHz, and achieve the highest MaxF of 93.25% on the KITTI-road-benchmark.
+* **Accurate and Super Fast**. UpBEV-DRDet can run at more than 100Hz on a core of CPU clocked at 4.0GHz, and achieve the highest MaxF of 93.18% on the KITTI-road-benchmark.
 * **Non-learning method**. UpBEV-DRDet is a non-learning method, which can be easily deployed on various platforms with different computing resources.
 
 ## 2. About this repo
