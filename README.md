@@ -1,4 +1,7 @@
+# NOTICE：Sorry to the readers who are interested in this repo.  Since our team has dived into a very exciting project, this repo is delayed. Maybe the remainder part can be finished and then released in a few months. Thanks for your continued interest.
+
 # UpBEV-Based Drivable Region Detection (UpBEV-DRD)
+
 ***UpBEV*** is a novel representation paradigm for LiDAR data, organizing the data into a more compact style. It can not only keep part of the spatial relationship between points but also make the data processing more efficient. Especially, it can transform the 3D boundary of a drivable region into edges in a 2D image. To the best of our knowledge, this is the first work to utilize UpBEV for drivable region detection. Based on UpBEV, a complete framework for drivable region detection is proposed, which is the best-performing non-learning method on [KITTI-road-benchmark](https://www.cvlibs.net/datasets/kitti/eval_road.php) in terms of MaxF (**93.18%**) and speed (**<10ms 1core@4.0GHz**).
 
 ## 1. Features of UpBEV-DRDet
